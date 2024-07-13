@@ -2,7 +2,7 @@
 
 <img width="45%" align="right" alt="Github"  style="margin-left: 30px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying software at  **Sunrin Internet High School** in <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width=13 /> **South Korea**. not reluctant to learn new technologies and are creating services that people will love and need.<br/><br/>
+hi, i'm Podboong, front-end developer currently studying software at  **Sunrin Internet High School** in <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width=13 /> **South Korea**. not reluctant to learn new technologies and are creating services that people will love and need.<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=RedBe-an&label=Profile%20views&color=0e75b6&style=flat" alt="RedBe-an-counter" />
 
 <br/>
@@ -49,6 +49,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 
 </ul>
 
-최근 업데이트: Sat, 13 Jul 2024 10:18:28 GMT
+최근 업데이트: Sat, 13 Jul 2024 10:40:03 GMT
 
 [![Velog README build](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml/badge.svg)](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml)
