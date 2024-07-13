@@ -36,7 +36,6 @@ hi, i'm Podboong, front-end developer currently studying software at  **Sunrin I
 ### Github Stats
 <p align="left" style="justify-content: space-between">
 <img src="https://github-readme-stats.vercel.app/api?username=RedBe-an&theme=light&show_icons=true&count_private=true&hide_border=true"  width="40%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RedBe-an&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="40%"/>
 </p>
 
 ### How to reach me
