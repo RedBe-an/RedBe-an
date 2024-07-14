@@ -32,7 +32,7 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 
 ### Github Stats
 <p align="left" style="justify-content: space-between">
-<img src="https://github-readme-stats.vercel.app/api?username=RedBe-an&theme=light&show_icons=true&count_private=true&hide_border=true"  width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RedBe-an&theme=light&show_icons=true&count_private=true&hide_border=true&locale=kr"  width="40%"/>
 </p>
 
 ### How to reach me
@@ -45,6 +45,6 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 
 </ul>
 
-최근 업데이트: Sun, 14 Jul 2024 06:23:07 GMT
+최근 업데이트: Sun, 14 Jul 2024 06:31:10 GMT
 
 [![Velog README build](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml/badge.svg)](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml)
