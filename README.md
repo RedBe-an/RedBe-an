@@ -49,6 +49,6 @@ hi, i'm Podboong, front-end developer currently studying software at  **Sunrin I
 
 </ul>
 
-최근 업데이트: Sat, 13 Jul 2024 21:14:33 GMT
+최근 업데이트: Sun, 14 Jul 2024 01:13:53 GMT
 
 [![Velog README build](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml/badge.svg)](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml)
