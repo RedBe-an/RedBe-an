@@ -11,6 +11,7 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google%20Chrome-1572B6?style=flat-square&logo=GOOGLECHROME&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=YARN&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
@@ -44,6 +45,6 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 
 </ul>
 
-최근 업데이트: Sun, 14 Jul 2024 01:50:54 GMT
+최근 업데이트: Sun, 14 Jul 2024 01:59:29 GMT
 
 [![Velog README build](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml/badge.svg)](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml)
