@@ -45,6 +45,6 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 
 </ul>
 
-최근 업데이트: Tue, 16 Jul 2024 18:20:26 GMT
+최근 업데이트: Tue, 16 Jul 2024 21:15:05 GMT
 
 [![Velog README build](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml/badge.svg)](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml)
