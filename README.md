@@ -45,6 +45,6 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 <li><a href="https://velog.io/@pod_boong/Rust-variables-and-mutable"><b>[Rust] 변수와 가변성 (2024-7-20)</b></a><br/></li>
 </ul>
 
-최근 업데이트: Sat, 20 Jul 2024 06:21:47 GMT
+최근 업데이트: Sat, 20 Jul 2024 09:15:15 GMT
 
 [![Velog README build](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml/badge.svg)](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml)
