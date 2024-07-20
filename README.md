@@ -2,7 +2,7 @@
 
 <img width="45%" align="right" alt="Github"  style="margin-left: 30px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Hello, I am Podboong, a back-end developer currently studying Golang and Rust in <img src="https://cdn-icons-png.Flaticon.com/512/5111/5111586.png" width=13 /> **South Korea**. 
+Hello, I am RedBean, a back-end developer currently studying Golang and Rust in <img src="https://cdn-icons-png.Flaticon.com/512/5111/5111586.png" width=13 /> **South Korea**. 
 I love learning new skills, and I think red bean buns are the best. <br/><br/>
 
 <br/>
@@ -42,9 +42,9 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 
 ### 최근 Velog 포스트
 <ul>
-
+<li><a href="https://velog.io/@pod_boong/Rust-variables-and-mutable"><b>Rust 배우기 - 변수와 가변성 (2024-7-20)</b></a><br/></li>
 </ul>
 
-최근 업데이트: Sat, 20 Jul 2024 03:17:00 GMT
+최근 업데이트: Sat, 20 Jul 2024 03:32:29 GMT
 
 [![Velog README build](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml/badge.svg)](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml)
