@@ -34,8 +34,9 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 <p align="left" style="justify-content: space-between">
 <img src="https://github-readme-stats.vercel.app/api?username=RedBe-an&theme=light&show_icons=true&count_private=true&hide_border=true&locale=en"  width="50%"/>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedBe-an&layout=compact)
-
+<p align="left" style="justify-content: space-between">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBe-an&layout=compact"  width="50%"/>
+</p>
 ### How to reach me
 <a href="https://github.com/RedBe-an" target="_blank">
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -53,6 +54,6 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 <li><a href="https://velog.io/@pod_boong/Rust-%EB%B3%B5%ED%95%A9-%ED%83%80%EC%9E%85"><b>[Rust] 데이터 타입(2) - 복합 타입 (2024-7-21)</b></a><br/></li><li><a href="https://velog.io/@pod_boong/Rust-data-type-1"><b>[Rust] 데이터 타입(1) - 스칼라 타입 (2024-7-20)</b></a><br/></li><li><a href="https://velog.io/@pod_boong/Rust-variables-and-mutable"><b>[Rust] 변수와 가변성 (2024-7-20)</b></a><br/></li>
 </ul>
 
-최근 업데이트: Tue, 23 Jul 2024 04:57:00 GMT
+최근 업데이트: Tue, 23 Jul 2024 04:58:46 GMT
 
 [![Velog README build](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml/badge.svg)](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml)
