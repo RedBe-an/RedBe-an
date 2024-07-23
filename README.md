@@ -42,6 +42,9 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 <a href="https://discord.com/users/1051121269355073588/1051121269355073588" target="_blank">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
+<a href="https://velog.io/@pod_boong/" target="_blank">
+  <img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+</a>
 
 
 ### 최근 Velog 포스트
@@ -49,6 +52,6 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 <li><a href="https://velog.io/@pod_boong/Rust-%EB%B3%B5%ED%95%A9-%ED%83%80%EC%9E%85"><b>[Rust] 데이터 타입(2) - 복합 타입 (2024-7-21)</b></a><br/></li><li><a href="https://velog.io/@pod_boong/Rust-data-type-1"><b>[Rust] 데이터 타입(1) - 스칼라 타입 (2024-7-20)</b></a><br/></li><li><a href="https://velog.io/@pod_boong/Rust-variables-and-mutable"><b>[Rust] 변수와 가변성 (2024-7-20)</b></a><br/></li>
 </ul>
 
-최근 업데이트: Mon, 22 Jul 2024 21:14:44 GMT
+최근 업데이트: Tue, 23 Jul 2024 01:01:09 GMT
 
 [![Velog README build](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml/badge.svg)](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml)
