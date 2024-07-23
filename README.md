@@ -5,6 +5,7 @@
 Hello, I am RedBean, a back-end developer currently studying Golang and Rust in <img src="https://cdn-icons-png.Flaticon.com/512/5111/5111586.png" width=13 /> **South Korea**. 
 I love learning new skills, and I think red bean buns are the best. <br/><br/>
 
+
 <br/>
 
 ### Things I Work with
@@ -53,6 +54,6 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 <li><a href="https://velog.io/@pod_boong/Rust-%EB%B3%B5%ED%95%A9-%ED%83%80%EC%9E%85"><b>[Rust] 데이터 타입(2) - 복합 타입 (2024-7-21)</b></a><br/></li><li><a href="https://velog.io/@pod_boong/Rust-data-type-1"><b>[Rust] 데이터 타입(1) - 스칼라 타입 (2024-7-20)</b></a><br/></li><li><a href="https://velog.io/@pod_boong/Rust-variables-and-mutable"><b>[Rust] 변수와 가변성 (2024-7-20)</b></a><br/></li>
 </ul>
 
-최근 업데이트: Tue, 23 Jul 2024 11:25:10 GMT
+최근 업데이트: Tue, 23 Jul 2024 11:30:58 GMT
 
 [![Velog README build](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml/badge.svg)](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml)
