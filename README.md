@@ -47,13 +47,15 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 <a href="https://velog.io/@pod_boong/" target="_blank">
   <img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 </a>
-
+<a href="https://buymeacoffee.com/redbe.an" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+</a>
 
 ### 최근 Velog 포스트
 <ul>
 <li><a href="https://velog.io/@pod_boong/Rust-function"><b>[Rust] 함수 (2024-7-24)</b></a><br/></li><li><a href="https://velog.io/@pod_boong/Rust-%EB%B3%B5%ED%95%A9-%ED%83%80%EC%9E%85"><b>[Rust] 데이터 타입(2) - 복합 타입 (2024-7-21)</b></a><br/></li><li><a href="https://velog.io/@pod_boong/Rust-data-type-1"><b>[Rust] 데이터 타입(1) - 스칼라 타입 (2024-7-20)</b></a><br/></li><li><a href="https://velog.io/@pod_boong/Rust-variables-and-mutable"><b>[Rust] 변수와 가변성 (2024-7-20)</b></a><br/></li>
 </ul>
 
-최근 업데이트: Mon, 29 Jul 2024 06:22:19 GMT
+최근 업데이트: Mon, 29 Jul 2024 07:13:11 GMT
 
 [![Velog README build](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml/badge.svg)](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml)
