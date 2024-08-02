@@ -58,6 +58,6 @@ I love learning new skills, and I think red bean buns are the best. <br/><br/>
 <li><a href="https://velog.io/@pod_boong/Rust-function"><b>[Rust] 함수 (2024-7-24)</b></a><br/></li><li><a href="https://velog.io/@pod_boong/Rust-%EB%B3%B5%ED%95%A9-%ED%83%80%EC%9E%85"><b>[Rust] 데이터 타입(2) - 복합 타입 (2024-7-21)</b></a><br/></li><li><a href="https://velog.io/@pod_boong/Rust-data-type-1"><b>[Rust] 데이터 타입(1) - 스칼라 타입 (2024-7-20)</b></a><br/></li><li><a href="https://velog.io/@pod_boong/Rust-variables-and-mutable"><b>[Rust] 변수와 가변성 (2024-7-20)</b></a><br/></li>
 </ul>
 
-최근 업데이트: Fri, 02 Aug 2024 06:23:14 GMT
+최근 업데이트: Fri, 02 Aug 2024 09:16:48 GMT
 
 [![Velog README build](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml/badge.svg)](https://github.com/RedBe-an/RedBe-an/actions/workflows/main.yml)
